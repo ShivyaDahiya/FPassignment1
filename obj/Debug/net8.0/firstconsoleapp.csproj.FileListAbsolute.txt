@@ -1,0 +1,14 @@
+C:\Users\dahiy\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.exe
+C:\Users\dahiy\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.deps.json
+C:\Users\dahiy\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.runtimeconfig.json
+C:\Users\dahiy\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.dll
+C:\Users\dahiy\firstconsoleapp\bin\Debug\net8.0\firstconsoleapp.pdb
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.AssemblyInfoInputs.cache
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.AssemblyInfo.cs
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.dll
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\refint\firstconsoleapp.dll
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.pdb
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\firstconsoleapp.genruntimeconfig.cache
+C:\Users\dahiy\firstconsoleapp\obj\Debug\net8.0\ref\firstconsoleapp.dll
